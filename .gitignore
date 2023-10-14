@@ -1,4 +1,6 @@
 .env
-sslcerts/*
+sslcerts/*.pem
+sslcerts/*.key
+sslcerts/*.cert
 notebooks/.ipynb_checkpoints
 .ipynb_checkpoints
