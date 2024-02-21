@@ -3,7 +3,9 @@
 
 The Apache Kafka® and Python tutorial aims at showcasing the basics of working with Apache Kafka® and Python using a series of notebooks in the main folder.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Aiven-Labs/python-apache-kafka-tutorial)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Aiven-Labs/python-apache-kafka-tutorial)<br>
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/aiven-labs/python-apache-kafka-tutorial)
+
 
 ## Overview
 
