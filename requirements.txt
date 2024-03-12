@@ -1,3 +1,4 @@
 confluent-kafka
 jupyter
 python-dotenv
+rich
