@@ -10,12 +10,12 @@ We'll also be using this notebook environment. By the end of this notebook, you 
 - Setup your developer environment
 
 ## Setting up your workspace
-## Your Developer Environment
+
+### Your Developer Environment
 
 Let's turn to our repo. We need to make sure we have all the tools needed for this workshop.
 
 You have a few options that we recommend.
-
 
 > [!NOTE]
 > If you are already in a Codespace/GitPod environment, skip the next steps
@@ -51,4 +51,5 @@ You can create a free trial at <https://go.aiven.io/ft-signup-kafka-python>.
 
 ## Start the workshop
 
-Go to the [first notebook](0-setup.ipynb) to get started with creating your Aiven account and creating your Kafka Cluster
+Go to the [first notebook](0-setup.ipynb) to get started with creating your Aiven account and creating your Aiven for Kafka Cluster and your Aiven for Apache Flink service.
+
