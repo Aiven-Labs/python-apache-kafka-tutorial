@@ -9,9 +9,6 @@ In this workshop, we'll be using Aiven for Apache Kafka®️ and Python to:
 * Use Python to create multiple consumers and consumer groups
 * Filter and transorm messages using Aiven for Apache Flink®️
 
-
-
-
 ## Getting Started
 
 Our instructions and notebooks are in the `workshop` folder.
@@ -27,5 +24,5 @@ Please note that the project explicitly does not require a CLA (Contributor Lice
 ## Contact
 
 Bug reports and patches are very welcome, please post them as GitHub issues and pull requests at https://github.com/Aiven-Labs/python-apache-kafka-tutorial.
- 
+
 To report any possible vulnerabilities or other serious issues please see our [security](SECURITY.md) policy.
