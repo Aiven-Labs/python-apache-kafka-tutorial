@@ -51,5 +51,8 @@ You can create a free trial at <https://go.aiven.io/ft-signup-kafka-python>.
 
 ## Start the workshop
 
-Go to the [first notebook](0-setup.ipynb) to get started with creating your Aiven account and creating your Aiven for Kafka Cluster and your Aiven for Apache Flink service.
+ We'll start by creating your Aiven account and creating your Aiven for Kafka Cluster and your Aiven for Apache Flink service.
 
+Go to the [first notebook](0-setup.ipynb) or **press the button below** to get started.
+
+[![Setup Aiven for Apache Kafka®️](https://img.shields.io/badge/0-Setup%20Aiven%20for%20Apache%20Kafka-a03586?style=for-the-badge&labelColor=ec6147)](0-setup.ipynb) 
