@@ -13,7 +13,7 @@ In this workshop, we'll be using Aiven for Apache Kafka®️ and Python to:
 
 Our instructions and notebooks are in the `workshop` folder.
 
-[![Click to Get Started](https://img.shields.io/badge/Get%20Started!-a03586?style=for-the-badge)](./workshop/)
+[![Click to Get Started](https://img.shields.io/badge/Get%20Started!-a03586?style=for-the-badge)](./workshop/README.md)
 
 ## License
 
