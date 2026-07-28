@@ -10,7 +10,13 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"charliermarsh.ruff"
-			]
+			],
+			"settings": {
+				// Pin VS Code to the venv so it never falls back to /usr/bin/python3
+				// (the system Python on Debian, which has no pip or venv support)
+				"python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+				"python.terminal.activateEnvironment": true
+			}
 		}
 	},
 
@@ -20,10 +26,9 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
-	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip3 install --user -r requirements.txt"
-	// Configure tool-specific properties.
-	// "customizations": {},
+	// Create a venv with the devcontainer's Python (/usr/local/bin/python) so that
+	// Jupyter always finds the right kernel with all packages installed.
+	"postCreateCommand": "/usr/local/bin/python -m venv .venv && .venv/bin/pip install -r requirements.txt"
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
