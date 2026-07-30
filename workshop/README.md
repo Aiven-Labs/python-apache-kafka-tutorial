@@ -47,11 +47,11 @@ Once the environment is loaded, you will need to install your python requirement
 
 For this workshop, we'll be using Aiven to be the home for our Kafka Cluster.
 
-You can create a free trial at <https://go.aiven.io/ft-signup-kafka-python>.
+Create a free account (no credit card required) at <https://go.aiven.io/ft-signup-kafka-python>.
 
 ## Start the workshop
 
- We'll start by creating your Aiven account and creating your Aiven for Kafka Cluster and your Aiven for Apache Flink service.
+ We'll start by creating your Aiven account and setting up your Aiven for Apache Kafka® cluster.
 
 Go to the [first notebook](0-setup.ipynb) or **press the button below** to get started.
 

@@ -1,4 +1,4 @@
-confluent-kafka
+confluent-kafka>=2.0.0
 jupyter
 python-dotenv
 rich

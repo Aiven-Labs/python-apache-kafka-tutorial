@@ -7,7 +7,6 @@ In this workshop, we'll be using Aiven for Apache Kafka®️ and Python to:
 * Create and configure an Apache Kafka cluster with Aiven for Apache Kafka®️
 * Use Python to create a Producer
 * Use Python to create multiple consumers and consumer groups
-* Filter and transorm messages using Aiven for Apache Flink®️
 
 ## Getting Started
 
